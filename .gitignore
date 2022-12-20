@@ -1,16 +1,3 @@
-### Ruby ###
-*.gem
-*.rbc
-/.config
-/coverage/
-/InstalledFiles
-/pkg/
-/spec/reports/
-/spec/examples.txt
-/test/tmp/
-/test/version_tmp/
-/tmp/
-
 # Used by dotenv library to load environment variables.
 # .env
 
@@ -25,12 +12,4 @@
 /vendor/bundle
 /lib/bundler/man/
 
-# unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
-.rvmrc
-
-/example/build
-/example/.bundle
-/example/.sass-cache
-
-Gemfile.lock
 node_modules

@@ -6,7 +6,13 @@
     "lint": "standard"
   },
   "dependencies": {
-    "govuk-frontend": "^4.0.0"
+    "fixedsticky": "^0.1.0",
+    "govuk-frontend": "~4.0.0",
+    "jquery": "~3.5.1",
+    "lodash": "~4.17.21",
+    "lunr": "~2.3.9",
+    "mark.js": "~8.11.1",
+    "modernizr": "~3.3.1"
   },
   "devDependencies": {
     "standard": "^14.3.4"

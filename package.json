@@ -35,7 +35,8 @@
       "GOVUKFrontend"
     ],
     "ignore": [
-      "lib/assets/javascripts/_vendor/**"
+      "javascripts/_vendor/**"
     ]
-  }
+  },
+  "browser": "javascripts/govuk_tech_docs.js"
 }

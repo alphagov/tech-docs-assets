@@ -40,6 +40,9 @@ You'll need to set up:
 
 How you do this will depend on the web framework you're using.
 
+> **Warning**
+> JavaScript and CSS relating to full-text search is included here, but completely unused/untested right now.
+
 ## Releasing new versions
 
 TODO
